@@ -10,3 +10,5 @@ Modificación desde github
 Cambio realizado en GitHub (rama master)
 
 Línea añadida en local en la tarea
+
+Línea añadida desde GitHub en la tarea
