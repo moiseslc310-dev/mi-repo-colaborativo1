@@ -8,3 +8,5 @@ Cambio realizado en local
 Modificación desde github
 
 Cambio realizado en GitHub (rama master)
+
+Línea añadida en local en la tarea
